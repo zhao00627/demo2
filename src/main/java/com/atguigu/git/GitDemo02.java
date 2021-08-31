@@ -6,5 +6,6 @@ public class GitDemo02 {
         System.out.println("github hello!");
         System.out.println("github hello!");
         System.out.println("push test!");
+        System.out.println("push test002!");
     }
 }
